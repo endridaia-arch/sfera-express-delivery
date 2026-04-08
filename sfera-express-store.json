@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "ab4ab3af-ee95-4607-a554-4edfa1b15dd3",
+      "role": "admin",
+      "contactName": "Sfera Admin",
+      "businessName": "Sfera Express Delivery",
+      "email": "admin@sferaexpress.al",
+      "passwordHash": "5d4ead1f21ce0b245f0656de576cf08f:c20994ad0c706b5daeff956b4a90814c5b0905a5ab8d672d159179e8203f7cb2a7c0d9f86c0d7633807a8863ea00b291ef007df75834f504bc8400b59d4b79da",
+      "phone": "+355 69 000 0000",
+      "city": "Tirane",
+      "address": "Qendra operative, Tirane",
+      "createdAt": "2026-04-08T17:33:54.900Z"
+    }
+  ],
+  "sessions": [],
+  "pricing": [
+    {
+      "city": "Tirane",
+      "price": 250,
+      "threshold": 25
+    },
+    {
+      "city": "Elbasan",
+      "price": 320,
+      "threshold": 25
+    },
+    {
+      "city": "Lushnje",
+      "price": 350,
+      "threshold": 25
+    },
+    {
+      "city": "Fier",
+      "price": 380,
+      "threshold": 25
+    },
+    {
+      "city": "Vlore",
+      "price": 450,
+      "threshold": 25
+    },
+    {
+      "city": "Durres",
+      "price": 300,
+      "threshold": 25
+    },
+    {
+      "city": "Sarande",
+      "price": 650,
+      "threshold": 25
+    }
+  ],
+  "shipments": [],
+  "trackingEvents": [],
+  "notifications": []
+}
